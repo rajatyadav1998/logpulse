@@ -1,0 +1,15 @@
+2025-08-30 17:30:56,453 [INFO] User created: logtest@example.com
+2025-08-30 17:31:12,606 [INFO] User logged in: logtest@example.com
+2025-08-30 23:49:19,390 [INFO] User created: user1@example.com
+2025-08-30 23:49:19,391 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\logpulse\venv311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-08-30 23:49:57,813 [INFO] User logged in: user1@example.com
+2025-08-30 23:50:53,585 [INFO] Log created by user1@example.com: This is a log from user1
+2025-08-30 23:51:37,531 [INFO] Logs fetched by user1@example.com, search=user1
+2025-08-30 23:54:41,718 [INFO] User created: admin1@example.com
+2025-08-30 23:55:26,425 [INFO] User logged in: admin1@example.com
+2025-08-30 23:56:09,324 [INFO] Log 2 deleted by admin1@example.com
