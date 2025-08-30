@@ -1,3 +1,5 @@
+![Tests](https://github.com/rajatyadav1998/logpulse/actions/workflows/tests.yml/badge.svg)
+
 🚀 LogPulse
 
 LogPulse is a backend logging & monitoring system built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, and JWT Authentication.
