@@ -1,4 +1,9 @@
 ![Tests](https://github.com/rajatyadav1998/logpulse/actions/workflows/tests.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+# 🚀 LogPulse
+
 
 🚀 LogPulse
 
