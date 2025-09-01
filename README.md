@@ -106,3 +106,4 @@ Rajat Yadav
 📧 rajatyadav1998@gmail.com"Trigger CI/CD pipeline" 
 "ci pipeline trigger test" 
 "retry pipeline" 
+"fix docker secrets" 
