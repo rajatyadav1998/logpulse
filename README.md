@@ -110,3 +110,4 @@ Rajat Yadav
 "docker login fix final" 
 "add debug step" 
 "secrets fixed for real" 
+"retry docker login after updating secrets" 
